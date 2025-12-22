@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Jerome Azicate 👋
 
-<!--
-**jazicate/jazicate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a motivated and results-driven developer with hands-on experience in **software development, machine learning, and data analysis**.
 
-Here are some ideas to get you started:
+I’m actively seeking opportunities where I can contribute innovative solutions while continuing to grow my **software engineering, analytical, and collaboration skills**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Tools & Technologies
+- **Languages**: Python, C/C++, C#, HTML/CSS, MATLAB
+- **Technologies**: Git, Github, Jupyter Notebook, Flask, Django, Matplotlib, Seaborn, OpenSSL, CMake, Catch2
+
+---
+
+⭐ *More projects coming soon 🚀* but feel free to explore my repositories and follow my journey!
