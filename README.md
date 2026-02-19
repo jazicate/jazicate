@@ -8,7 +8,7 @@ I’m actively seeking opportunities where I can contribute innovative solutions
 
 ## 🧠 Technical Skills
 - **Programming Languages**: Python, Rust, TypeScript, JavaScript, C, C++, C#, HTML, CSS, MATLAB
-- **Backend & Web Frameworks**: Node.js, Electron, Flask, Django, 
+- **Backend & Web Frameworks**: Node.js, Electron, Flask, Django
 - **Databases**: PostgreSQL
 - **Data Science & Visualization**: Matplotlib, Seaborn, Jupyter Notebook
 - **DevOps & Tooling:** GitHub, Git, Docker, CMake, OpenSSL
