@@ -10,6 +10,7 @@ I’m actively seeking opportunities where I can contribute innovative solutions
 - **Programming Languages**: Python, Rust, TypeScript, JavaScript, C, C++, C#, HTML, CSS, MATLAB
 - **Backend & Web Frameworks**: Node.js, Electron, Flask, Django
 - **Databases**: PostgreSQL
+- **ORM/Database Toolkit**: Prisma
 - **Data Science & Visualization**: Matplotlib, Seaborn, Jupyter Notebook
 - **DevOps & Tooling:** GitHub, Git, Docker, CMake, OpenSSL
 - **Testing**: pytest, Catch2
